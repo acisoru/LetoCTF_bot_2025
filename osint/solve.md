@@ -14,6 +14,7 @@ SIG-а ожила! Вышла в Steam — ирония в том, что рел
 
 
 Решение
+
 Нужно найти обзор в стиме на SIGame с флагом letoctf{}
 
 ![image](https://github.com/user-attachments/assets/7ef3637e-24a9-43ae-b4a7-1c95f8110185)
