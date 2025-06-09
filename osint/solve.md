@@ -15,5 +15,5 @@ SIG-а ожила! Вышла в Steam — ирония в том, что рел
 
 ![image](https://github.com/user-attachments/assets/7ef3637e-24a9-43ae-b4a7-1c95f8110185)
 
-letoctf{v_r3sh_enn0y_t@5k3}
+Флаг: ```letoctf{v_r3sh_enn0y_t@5k3}```
 
